@@ -1,0 +1,24 @@
+{
+  "name": "npm-package-starter",
+  "version": "1.0.0",
+  "description": "A starter project to create npm package with TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wiroh/npm-package-starter.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "TypeScript"
+  ],
+  "author": "Wiroh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wiroh/npm-package-starter/issues"
+  },
+  "homepage": "https://github.com/Wiroh/npm-package-starter#readme"
+}
