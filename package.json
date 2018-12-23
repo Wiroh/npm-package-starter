@@ -1,0 +1,33 @@
+{
+  "name": "npm-package-starter",
+  "version": "1.0.1",
+  "description": "A starter project to create npm package with TypeScript.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "jest --verbose",
+    "test-watch": "jest --verbose --watchAll",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wiroh/npm-package-starter.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "TypeScript"
+  ],
+  "author": "Wiroh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wiroh/npm-package-starter/issues"
+  },
+  "homepage": "https://github.com/Wiroh/npm-package-starter#readme",
+  "devDependencies": {
+    "@types/jest": "^23.3.10",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.2.2"
+  }
+}
